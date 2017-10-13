@@ -1,0 +1,21 @@
+Sign up for Github
+https://github.com/
+
+Download GitHub for desktop
+https://desktop.github.com/
+
+Make sure that you login to your github desktop with your Github creds
+
+Click > File > New Repository > Name your repository > Add Description > Make sure your local path is set to somewhere you know like your desktop > click Create repository 
+
+A folder will be added to that location and a new repository will be added on your Github Desktop
+
+Add all of your SQL and code files to that Folder 
+
+
+
+
+
+Download Atom
+https://atom.io/
+
